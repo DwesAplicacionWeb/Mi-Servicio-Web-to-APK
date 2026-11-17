@@ -1,0 +1,6 @@
+{
+  "name": "Mi Servicio",
+  "description": "Aplicación personal offline para policías: calendario de turnos, vacaciones, asuntos propios, saldo horario, tareas y biblioteca documental.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
